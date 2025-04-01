@@ -51,19 +51,9 @@ ASRppt is an AI-powered tool designed to quickly generate PowerPoint presentatio
 
 ![image](assets/asrppt1.png)
 
-[Image of ASRppt Interface with Topic and Language Options]
-(The image with the topic and language selection can be inserted here)
-
 ![image](assets/asrppt2.png)
 
-[Image of ASRppt Interface with Template Selection]
-(The image with the template selection can be inserted here)
-
-
 ![image](assets/asrppt3.png)
-
-[Image of ASRppt Interface with Result Preview and Download Option]
-(The image with the result preview and download option can be inserted here)
 
 ## 7. Future Enhancements
 
