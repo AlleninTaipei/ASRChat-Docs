@@ -1,13 +1,5 @@
 # ASRppt
 
-## Revision History
-
-|Date|Revision|Description|Affected Content|
-|-|-|-|-|
-|2025/2/12|1.0|Original Release|n/a|
-
----
-
 ## 1. Introduction
 
 ASRppt is an AI-powered tool designed to quickly generate PowerPoint presentations. Users input a topic and key content, and ASRppt automatically creates a presentation with a selected theme and number of pages. This tool aims to streamline the presentation creation process, saving users time and effort.

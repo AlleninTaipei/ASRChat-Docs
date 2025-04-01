@@ -1,13 +1,5 @@
 # ASRChat
 
-## Revision History
-
-|Date|Revision|Description|Affected Content|
-|-|-|-|-|
-|2025/2/12|1.0|Original Release|n/a|
-
----
-
 ## Introduction
 Local ASRChat is an AI-powered assistant designed to operate within a secure, internal environment. It leverages advanced AI capabilities, including large language models (LLMs), retrieval-augmented generation (RAG), and multimodal processing, to deliver comprehensive AI-assisted services. The system is optimized to run locally on high-performance hardware without requiring an external internet connection.
 
